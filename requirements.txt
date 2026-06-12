@@ -1,5 +1,0 @@
-mkdir usertaxi-go
-cd usertaxi-go
-go mod init usertaxi
-go get github.com/Pauloo27/gotgbot/v2
-go get github.com/jackc/pgx/v5/pgxpool
